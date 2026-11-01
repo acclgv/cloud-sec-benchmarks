@@ -1,0 +1,11 @@
+{
+  "last_audit_utc": "2026-11-01T02:24:20.489Z",
+  "benchmark_frameworks": [
+    "CIS Amazon Web Services Foundations v3.0.0",
+    "CIS Microsoft Azure Foundations v2.1.0"
+  ],
+  "total_controls_tracked": 142,
+  "passing_controls_ratio": 0.965,
+  "compliance_grade": "GRADE A - HARDENED",
+  "maintainer": "Luis García Villena (Accenture Security Transformation)"
+}
